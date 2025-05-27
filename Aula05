@@ -1,0 +1,25 @@
+<html>
+    <head>
+    </head>  
+        <body>
+            <h1>Formulário com método GET</h1>
+            <br>
+              <form>
+               Login:<input type="text">
+               <br><br>
+               Senha:<input type="password">
+               <br><br>
+               <input type="button" value="entrar">
+              </form>
+
+            <h2>Formulário com método POST</h2>
+            <br>
+              <form>
+               Login<input type="text">
+               <br><br>
+               Senha<input type="password">
+               <br><br>
+               <input type="submit">
+              </form>
+        </body>
+</html>
